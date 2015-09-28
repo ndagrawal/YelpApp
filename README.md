@@ -6,7 +6,7 @@ Completed Stories
 
 **Search results page**    
 **Filter page.** 
-
--- Doubts on  -- 
-Change of data in tableview based on search results.
-Autoresize of tableviewcells
+  
+-- Doubts on  --   
+Change of data in tableview based on search results.  
+Autoresize of tableviewcells  
